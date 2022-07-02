@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="72" started-at="2022-07-02T16:29:50 CST" finished-at="2022-07-02T16:29:50 CST">
+    <groups>
+      <group name="Jtest">
+        <method signature="TestJenkins.Jtest()[pri:0, instance:cases.TestJenkins@4b9e13df]" name="Jtest" class="cases.TestJenkins"/>
+        <method signature="TestJenkins.Jtest()[pri:0, instance:cases.TestJenkins@59ec2012]" name="Jtest" class="cases.TestJenkins"/>
+      </group> <!-- Jtest -->
+    </groups>
+    <test name="D:/MyDrivers/JenNG" duration-ms="29" started-at="2022-07-02T16:29:50 CST" finished-at="2022-07-02T16:29:50 CST">
+      <class name="cases.TestJenkins">
+        <test-method status="PASS" signature="Jtest()[pri:0, instance:cases.TestJenkins@4b9e13df]" name="Jtest" duration-ms="4" started-at="2022-07-02T16:29:50 CST" finished-at="2022-07-02T16:29:50 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Jtest -->
+      </class> <!-- cases.TestJenkins -->
+    </test> <!-- D:/MyDrivers/JenNG -->
+    <test name="Jtest1" duration-ms="1" started-at="2022-07-02T16:29:50 CST" finished-at="2022-07-02T16:29:50 CST">
+      <class name="cases.TestJenkins">
+        <test-method status="PASS" signature="Jtest()[pri:0, instance:cases.TestJenkins@59ec2012]" name="Jtest" duration-ms="0" started-at="2022-07-02T16:29:50 CST" finished-at="2022-07-02T16:29:50 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Jtest -->
+      </class> <!-- cases.TestJenkins -->
+    </test> <!-- Jtest1 -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

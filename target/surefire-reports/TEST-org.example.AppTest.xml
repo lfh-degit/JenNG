@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="org.example.AppTest" time="0.578" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.class.path" value="D:\MyDrivers\JenNG\target\test-classes;D:\MyDrivers\JenNG\target\classes;D:\work\MAVEN\Udb\junit\junit\4.11\junit-4.11.jar;D:\work\MAVEN\Udb\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;D:\work\MAVEN\Udb\org\testng\testng\7.4.0\testng-7.4.0.jar;D:\work\MAVEN\Udb\com\beust\jcommander\1.78\jcommander-1.78.jar;D:\work\MAVEN\Udb\org\webjars\jquery\3.5.1\jquery-3.5.1.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="D:\work\Java\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\addo\AppData\Local\Temp\surefire1950743104080630320\surefirebooter8798360438686505558.jar C:\Users\addo\AppData\Local\Temp\surefire1950743104080630320 2022-07-02T16-26-56_336-jvmRun1 surefire6889169131559384332tmp surefire_05015996296187250580tmp"/>
+    <property name="surefire.test.class.path" value="D:\MyDrivers\JenNG\target\test-classes;D:\MyDrivers\JenNG\target\classes;D:\work\MAVEN\Udb\junit\junit\4.11\junit-4.11.jar;D:\work\MAVEN\Udb\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;D:\work\MAVEN\Udb\org\testng\testng\7.4.0\testng-7.4.0.jar;D:\work\MAVEN\Udb\com\beust\jcommander\1.78\jcommander-1.78.jar;D:\work\MAVEN\Udb\org\webjars\jquery\3.5.1\jquery-3.5.1.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\addo"/>
+    <property name="user.language" value="zh"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="D:\work\Java\jre"/>
+    <property name="basedir" value="D:\MyDrivers\JenNG"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\addo\AppData\Local\Temp\surefire1950743104080630320\surefirebooter8798360438686505558.jar"/>
+    <property name="sun.boot.class.path" value="D:\work\Java\jre\lib\resources.jar;D:\work\Java\jre\lib\rt.jar;D:\work\Java\jre\lib\sunrsasign.jar;D:\work\Java\jre\lib\jsse.jar;D:\work\Java\jre\lib\jce.jar;D:\work\Java\jre\lib\charsets.jar;D:\work\Java\jre\lib\jfr.jar;D:\work\Java\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_202-b08"/>
+    <property name="user.name" value="addo"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="D:\work\Java\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="GBK"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="D:\work\MAVEN\Udb"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\addo\AppData\Local\Temp\"/>
+    <property name="java.version" value="1.8.0_202"/>
+    <property name="user.dir" value="D:\MyDrivers\JenNG"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="D:\work\Java\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;D:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NetSarang\Xshell 7\;C:\Program Files (x86)\NetSarang\Xftp 7\;C:\sqlite;D:\迅雷下载\platform-tools;D:\雷下载\aapt;C:\Program Files\OpenSSL-Win64\bin;D:\work\MAVEN\apache-maven-3.8.2\bin;D:\work\apache-tomcat-8.5.71\lib;D:\work\apache-tomcat-8.5.71\bin;D:\work\Java\bin;D:\work\Java\jre\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\TestUtil\Git\cmd;D:\TestUtil\build-tools_r28.0.2-windows\android-9;D:\TestUtil\apache-ant-1.10.12\bin;D:\TestUtil\mysql-8.0.27-winx64\bin;C:\Users\addo\AppData\Local\Android\SDK;C:\Users\addo\AppData\Local\Android\SDK\platform-tools;;D:\TestUtil\xsltproc\bin;;D:\Program Files (x86)\Tencent\微信web开发者工具\dll;C:\Users\addo\AppData\Local\Microsoft\WindowsApps;D:\Bandizip\;C:\Users\addo\AppData\Local\Programs\Fiddler;C:\Users\addo\AppData\Local\Microsoft\WindowsApps;;D:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.2.3\bin;;D:\TestUtil\Nmap;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.202-b08"/>
+    <property name="java.ext.dirs" value="D:\work\Java\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue on shouldAnswerWithTrue(org.example.AppTest)" classname="org.example.AppTest" time="0.001"/>
+</testsuite>
